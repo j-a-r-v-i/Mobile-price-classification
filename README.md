@@ -1,6 +1,6 @@
 # Mobile-price-classification
 
-This dataset contain information about many mobiles anda variables about it.
+This dataset contain information about many mobiles anda variables about them.
 
 id-ID
 battery_power-Total energy a battery can store in one time measured in mAh
